@@ -1,0 +1,6 @@
+Django
+opencv-python
+numpy
+face-recognition
+pandas
+urllib3
